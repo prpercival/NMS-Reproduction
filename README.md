@@ -1,8 +1,7 @@
 # NMS-Reproduction
 Reproduction of issue migrating VirtualTopics when migrating from ActiveMQ to Artemis
 
-# H1
-Instructions to reproduce
+## Instructions to reproduce
 
 1. Have .NET Framework 4.8 SDK installed
 2. Clone repository
